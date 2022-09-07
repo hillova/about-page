@@ -94,3 +94,7 @@ img {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.app-box {
+  padding: 20px;
+}
